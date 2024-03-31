@@ -1,5 +1,5 @@
 # screensoother
-Black out screens every 30 minutes to reduce digital strain.
+Black out screens every 30 minutes to reduce digital strain. (For Windows laptops and computers. Not for mobile)
 
 **Dependencies**
 You can run the file directly without needing any other software or dependencies. Once you run the executable, you screen will go blackout every 30 minutes for 60 seconds. 
