@@ -6,14 +6,14 @@ You can run the file directly without needing any other software or dependencies
 This should reduce your digital strain.
 
 **Operation**
-The software stops once you turn off your comouter. So, you will need to start this software daily or when you need it, post turning off your computer.
-When the screen blackout on intervals, your other programs on the computer will continue to run as it is.
+The software stops once you turn off your computer. So, you will need to start this software daily or when you need it, post turning off your computer.
+When the screen blacksout on intervals, the other programs on your computer will continue to run as it is.
 
 **Turning off Manually**
 As this software runs continously, if you need to manually turn the software off, press Alt+Ctl+Del, search for java. Then select Java(TM) Platform SE binary, and click on 'End Task' to stop this software.
 
 **Expiration**
-This version of the software will work till 31 Dec 2024. Post that, you will have to download new version.
+This version of the software will work till 31 Dec 2024. Post that, you will have to download the new version.
 
 **Cost**
 This software is completely free
