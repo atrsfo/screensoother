@@ -5,6 +5,9 @@ Black out screens every 30 minutes to reduce digital strain. (For Windows laptop
 You can run the file directly without needing any other software or dependencies. Once you run the executable, you screen will go blackout every 30 minutes for 60 seconds. 
 This should reduce your digital strain.
 
+**How to Run**
+Download and unzip screensoother.zip from the releases folder on bottom right of this page. Unzip the folder. Go to bin and run screensoother.exe. Click allow on any warnings.
+
 **Operation**
 The software stops once you turn off your computer. So, you will need to start this software daily or when you need it, post turning off your computer.
 When the screen blacksout on intervals, the other programs on your computer will continue to run as it is.
